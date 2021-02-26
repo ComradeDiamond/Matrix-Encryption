@@ -64,7 +64,6 @@ public class Encryptor
     /**
      * Decrypts the encrypted text
      * @param encrypted The encrypted text
-     * @postcondition The plaintext returned is all uppercase. Encrypted is unchanged.
      * @return Plaintext
      */
     public static String decrypt(String encrypted)
